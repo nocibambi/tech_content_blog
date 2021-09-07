@@ -1,5 +1,3 @@
-# Technical Content Writing
+# Home
 
-Welcome!
-
-Are you looking for Technical Content Writing?
+Welcome on this page about technical content writing.
